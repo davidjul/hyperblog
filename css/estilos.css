@@ -1,6 +1,6 @@
 body
 {
-    color:blueviolet;
+    color:blue;
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
@@ -8,6 +8,7 @@ body
 
 #container
 {
+    
 
     width: 70%;
     padding: 1em;
